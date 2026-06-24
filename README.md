@@ -175,15 +175,10 @@ http://localhost:8080/PengkodeanAman_MiniLab/
 
 - If your MySQL root account has a password, update the database credentials in `function.php`.
 - For better security, consider storing database credentials in environment variables or a separate configuration file such as `.env`.
-
----
-
-This guide is intended to help users set up and run the application in a local development environment.
-````
-
-Untuk README GitHub tugas kuliah, versi ini sudah mengikuti gaya dokumentasi open-source yang umum digunakan dan mudah dipahami oleh dosen maupun developer lain.
-
+  
 ---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+
 (Indonesian)
 # Cara Menjalankan Sistem
 
